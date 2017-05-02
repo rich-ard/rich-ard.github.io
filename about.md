@@ -3,28 +3,22 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+## What's going on here?
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+In between catching up on John Scalzi novels and trying to get my kids to bed, I'm making a place where I can remember the little things I might need next time someone asks for an ad-hoc report or an alternative to a box plot.
 
-There are currently two themes built on Poole:
+## Who's responsible for this?
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+I'm Richard Brandt, a 
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+* data technician in the Dep't of Epidemiology and Biostatistics at [WMed](https://med.wmich.edu)
+* graduate student in the [Statistics department](https://wmich.edu/statistics) at Western Michigan University
+* terrible bicycle racer
+* married man with just shy of half a dozen children
+* former graphic design student and once-intended-draughtsman who is overcome with glee at the idea that I can draw pictures and also get ideas across to people even though I'm colorblind
 
-## Setup
+## What is this site built on?
 
-Some fun facts about the setup of this project include:
+*iworkoverti.me* is built with [Jekyll](http://jekyllrb.com), hosted for free on [GitHub Pages](https://pages.github.com), and laid out with [Hyde](https://hyde.getpoole.com), which is in turn a part of the [Poole](https://getpoole.com) method of building Jekyll themes. It allows me to write this site in Markdown, which is awesome because I can code webpages (a) directly in RStudio or Spyder, and (b) don't have to muck around with HTML hardly at all. This makes for small pages, fast load times, and less headache on my end.
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+I will probably add Disqus commenting at some point as well, but don't hold me to it.
