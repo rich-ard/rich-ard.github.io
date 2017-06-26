@@ -1,6 +1,6 @@
 ---
 layout: post
-Visualizing the CDC's HPV Vaccination Recommendations
+title: Visualizing the CDC's HPV Vaccination Recommendations
 ---
 
 ### What is it?
